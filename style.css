@@ -6,7 +6,7 @@
 }
 
 section {
-  position: relative;
+  position: absolute;
   width: 100%;
   min-height: 100%;
   padding: 100px;
@@ -100,7 +100,7 @@ header ul li a {
 }
 
 .content .imgBox img {
-  max-width: 340px;
+  max-width: 440px;
 }
 
 .thumb {
